@@ -28,7 +28,7 @@ Built for the **Smart India Hackathon**, this project is not merely a prototype.
 
 The chatbot's core logic is built on a powerful hybrid model that combines the strengths of machine learning for understanding and explicit rules and code for predictable, safe decision-making. Every user query is intelligently routed down one of two paths.
 
-![Swasthya-Setu Chatbot Architecture Flowchart](https-::lh3.googleusercontent.com:PjE_jC20y2v43B3W5V3c6m1u1Jk5rP9kY9pQ8XlX0D0W6aC2L8J-C8R0eWjQ7wXw2e8Yk2WlX7iP0sC5F3N5Q2jV_x8L2_B)
+![Swasthya-Setu Chatbot Architecture Flowchart](https://res.cloudinary.com/dwwihknne/image/upload/v1757745503/swasthya-setu-diagram_w3k55p.png)
 
 ### **Path A: The "Express Lane" (High-Confidence Tasks)**
 This path is for queries that the NLU model recognizes with very high confidence (>85%). These are critical, structured tasks that require immediate and predictable action.
@@ -61,7 +61,7 @@ This project uses a standard Rasa Open Source stack with a powerful, code-driven
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://your-repo-url/swasthya-setu.git
+git clone <repo_url>
 cd swasthya-setu
 ````
 ### **2. Create Environment & Install Dependencies**
